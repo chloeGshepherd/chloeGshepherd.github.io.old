@@ -1,6 +1,12 @@
 body {
-	background-color: purple;
+	color: #95a5a6;
+	background-color: #354a5f;
+	font-size: 24px;
 }
 
-h1, h2, h3, p {color:white;
+h1 {
+	color:#95a5a6;
+	font-weight: bold;
 }
+
+#slogan {font-style: italic;}
