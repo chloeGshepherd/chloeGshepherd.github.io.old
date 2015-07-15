@@ -13,10 +13,6 @@ h1 {
 	font-family: 'Playfair Display SC', serif;
 }
 
-p {
-	font-family: 'Raleway', sans-serif;
-}
-
 title {
 	font-family: 'Raleway', sans-serif;
 	font-style: italic;
@@ -25,4 +21,8 @@ title {
 #slogan {
 	font-family: 'Playfair Display SC', serif;
 	font-style: italic;
+}
+
+p {
+	font-family: 'Raleway', sans-serif;
 }
