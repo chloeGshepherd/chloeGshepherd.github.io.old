@@ -1,28 +1,29 @@
-@import url(http://fonts.googleapis.com/css?family=Lobster+Two|Oswald);
+@import url(http://fonts.googleapis.com/css?family=Playfair+Display:700|Raleway:300);
 
 title {
-	font-family: 'Lobster Two', cursive;
+	font-family: 'Playfair Display', serif;
 }
 
 #slogan {
-	font-family: 'Lobster Two', cursive;
-	font-size: 30px;
+	font-family: 'Playfair Display', serif;
+	font-size: 16px;
 }
 
 h1 {
 	color:#95a5a6;
-	font-family: 'Lobster Two', cursive;
-	font-size: 40px
+	font-family: 'Playfair Display', serif;
+	font-size: 16px
 	}
 
 p {
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Raleway', sans-serif;
 }
 
 body {
 	color: #95a5a6;
 	background-color: #354a5f;
-	font-family: 'Oswald', sans-serif;
-	font-size: 14px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 12px;
+}
 
 
