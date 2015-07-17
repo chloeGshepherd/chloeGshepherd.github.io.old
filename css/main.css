@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Playfair+Display:400,700|Raleway:300);
+@import url(http://fonts.googleapis.com/css?family=Playfair+Display:400,700|Playfair+Display+SC|Raleway:300);
 
 title {
 	font-family: 'Playfair Display', serif;
@@ -27,8 +27,7 @@ body {
 }
 
 ul {
-	font-family: 'Playfair', serif;
+	font-family: 'Playfair Display SC', serif;
 	font-size: 16px
-	font-style: all caps;
 }
 
