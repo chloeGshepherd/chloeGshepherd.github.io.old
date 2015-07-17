@@ -9,6 +9,12 @@ title {
 	font-size: 30px;
 }
 
+h1 {
+	color:#95a5a6;
+	font-family: 'Lobster Two', cursive;
+	font-size: 22px
+	}
+
 p {
 	font-family: 'Oswald', sans-serif;
 }
@@ -20,8 +26,3 @@ body {
 	font-size: 20px;
 
 
-h1 {
-	color:#95a5a6;
-	font-family: 'Lobster Two', cursive;
-	font-size: 22px
-	}
